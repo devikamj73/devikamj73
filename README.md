@@ -3,7 +3,7 @@
 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,nodejs,ts,mongodb,azure,linux,java,mysql,postgres,py,threejs,solidity,github,blender,figma,cypress&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,nodejs,ts)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=devikamj73&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
