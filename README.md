@@ -1,14 +1,14 @@
-# 💫 About Me:
+# 🧩 About Me:
 🔭 I’m currently working on my web development skills<br>👯 I’m looking to collaborate with folks interested in URL based watermarking techniques<br>🤝 I’m looking for help with the above mentioned, duh! Also on building cool AI projects<br>🌱 I’m currently learning AI and its possibilities<br>⚡ Fun fact : Coding keeps me grounded, but space science is where my mind loves to wander...
 
 
-# Speaks:
+# 🗯️ Speaks:
 [![My Skills](https://skillicons.dev/icons?i=java,py,js,c,mysql)](https://skillicons.dev)
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,nodejs,ts)](https://skillicons.dev)
 
-# Interests:
+# 🎨 Interests:
 [![My Skills](https://skillicons.dev/icons?i=figma,blender,solidity,linux,notion)](https://skillicons.dev)
 
 
