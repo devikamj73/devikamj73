@@ -6,7 +6,6 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,nodejs,ts)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=devikamj73&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=devikamj73&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=devikamj73&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
