@@ -3,7 +3,7 @@
 
 
 # 🗯️ Speaks:
-[![My Skills](https://skillicons.dev/icons?i=java,py,js,c,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,js,c,mysql,ts)](https://skillicons.dev)
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,nodejs,ts)](https://skillicons.dev)
