@@ -1,5 +1,5 @@
 # 🧩 About Me:
-🔭 I’m currently working on my web development skills<br>👯 I’m looking to collaborate with folks interested in URL based watermarking techniques<br>🤝 I’m looking for help with the above mentioned, duh! Also on building cool AI projects<br>🌱 I’m currently learning AI and its possibilities<br>⚡ Fun fact : Coding keeps me grounded, but space science is where my mind loves to wander...
+🔭 I’m currently working on my web development skills<br>👯 I’m looking to collaborate with folks interested in designing<br>🤝 I’m looking for help with the above mentioned, duh! Also on building cool AI projects<br>🌱 I’m currently learning AI and its possibilities<br>⚡ Fun fact : Coding keeps me grounded, but space science is where my mind loves to wander...
 
 
 # 🗯️ Speaks:
