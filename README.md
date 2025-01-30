@@ -6,10 +6,10 @@
 [![My Skills](https://skillicons.dev/icons?i=java,py,js,c,mysql)](https://skillicons.dev)
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,nodejs,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,react,nodejs,ts)](https://skillicons.dev)
 
 # 🎨 Interests:
-[![My Skills](https://skillicons.dev/icons?i=figma,blender,solidity,linux,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,blender,linux,powerbi)](https://skillicons.dev)
 
 
 # 📊 GitHub Stats:
