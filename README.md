@@ -3,13 +3,10 @@
 
 
 # 🗯️ Speaks:
-[![My Skills](https://skillicons.dev/icons?i=java,py,js,c,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,js,c)](https://skillicons.dev)
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=tailwind,react,nodejs,ts)](https://skillicons.dev)
-
-# 🎨 Interests:
-[![My Skills](https://skillicons.dev/icons?i=figma,blender,linux,powerbi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tailwind,react,nodejs,ts,mysql)](https://skillicons.dev)
 
 
 # 📊 GitHub Stats:
