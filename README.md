@@ -1,5 +1,5 @@
 # 🧩 About Me:
-🔭 I’m currently working on my data analytics skills<br>👯 I’m looking to collaborate with folks interested in UI/UX and front-end developemnt<br>🤝 I’m looking for help with the above mentioned :)<br>🌱 I’m currently exploring AI and its possibilities<br>⚡ Fun fact : Coding keeps me grounded, but space science is where my mind loves to wander...
+🔭 SOFTWARE ENGINEER | AI ENTHUSIAST | PASSIONATE ABOUT STARS, BLACKHOLES, GALAXIES AND MORE
 
 
 # 🗯️ Speaks:
