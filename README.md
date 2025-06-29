@@ -2,7 +2,7 @@
 🔭 SOFTWARE ENGINEER | AI ENTHUSIAST | PASSIONATE ABOUT STARS, BLACKHOLES, GALAXIES AND MORE
 
 
-# 🗯️ Speaks:
+# 🗯️ Languages:
 [![My Skills](https://skillicons.dev/icons?i=java,py,js,c)](https://skillicons.dev)
 
 # 💻 Tech Stack:
