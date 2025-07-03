@@ -6,7 +6,7 @@
 [![My Skills](https://skillicons.dev/icons?i=java,py,js,c)](https://skillicons.dev)
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=tailwind,react,nodejs,ts,mysql,cloud)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nodejs,mysql,aws,git,kubernetes,azure,fastapi,linux)](https://skillicons.dev)
 
 
 # 📊 GitHub Stats:
