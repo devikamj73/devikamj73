@@ -1,7 +1,3 @@
-# 🧩 About Me:
-🔭 SOFTWARE ENGINEER | AI ENTHUSIAST | PASSIONATE ABOUT STARS, BLACKHOLES, GALAXIES AND MORE
-
-
 # 🗯️ Languages:
 [![My Skills](https://skillicons.dev/icons?i=java,py,js,c)](https://skillicons.dev)
 
